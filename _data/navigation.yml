@@ -2,5 +2,7 @@
   link: /
 - name: About
   link: /about/
-- name: Portfolio
-  link: /portfolio/
+- name: Books
+  link: /Books/
+- name: CV
+  link: /test.pdf
